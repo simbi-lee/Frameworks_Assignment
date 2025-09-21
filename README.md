@@ -76,4 +76,4 @@ By completing this project, you’ll have:
 ---
 
 ## 🙌 Author
-Assignment prepared for **Frameworks Course** — Beginner Data Analysis & Visualization.  
+Assignment prepared for **PLP Python Course** — Framework Assignment.  
